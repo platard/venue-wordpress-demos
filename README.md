@@ -1,6 +1,6 @@
 # WordPress venue demos
 
-[Launch the interactive demo in WordPress Playground](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fplatard%2Fvenue-wordpress-demos%2Fmain%2Fblueprint.json)
+[Launch the interactive demo in WordPress Playground](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fplatard%2Fvenue-wordpress-demos%40main%2Fblueprint.json)
 
 Two portfolio samples for The Lantern Room, a fictional venue.
 
