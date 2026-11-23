@@ -1,10 +1,11 @@
-# WordPress venue demos
+# The Lantern Room
 
-[Launch the interactive demo in WordPress Playground](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fplatard%2Fvenue-wordpress-demos%40main%2Fblueprint.json)
+[Open the complete WordPress demo](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fplatard%2Fvenue-wordpress-demos%40a1695b6c6243a5ae7fc614f72d0dd1e75e87a3c2%2Fblueprint.json)
 
-Two portfolio samples for The Lantern Room, a fictional venue.
+A portfolio site for a fictional Ottawa listening room with Home, About, Contact and What’s On pages. It includes two original, generated venue photos.
 
-- **Venue Theme** presents the venue and its events in a custom WordPress theme.
-- **Showtimes Plugin** displays the event schedule through the `[venue_showtimes]` shortcode.
+- [Venue Theme](venue-theme.zip) includes the responsive templates, styles and images.
+- [Showtimes Plugin](showtimes-plugin.zip) uses the `[venue_showtimes]` shortcode to display upcoming performances.
+- [Complete source bundle](venue-wordpress-demos.zip) includes both components, the page setup script and the Playground blueprint.
 
-Each component ZIP contains its source and can be installed from the WordPress dashboard. The combined ZIP contains both source folders and the files for running the demo. Playground opens a fresh WordPress instance in the browser.
+Playground opens a fresh WordPress instance in the browser. The venue and events are fictional.
